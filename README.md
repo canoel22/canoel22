@@ -3,7 +3,7 @@
 - 🔭 Atualmente faço faculdade de engenharia de computação e estou começando no mundo da programação!
 - 🌱 Aprendendo C!
 - 😄 Pronomes: ela/dela
-<div align="center">
+<div>
   <a href="https://github.com/canoel22">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=canoel22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canoel22&layout=compact&langs_count=7&theme=tokyonight"/>
