@@ -1,8 +1,7 @@
 ### Olá! Prazer, Carine Noel! 👋😊
 
-- 🔭 Atualmente faço faculdade de engenharia de computação e estou começando no mundo da programação!
-- 🌱 Aprendendo C!
-- 😄 Pronomes: ela/dela
+ 🔭 Atualmente faço faculdade de engenharia de computação e estou começando no mundo da programação!
+ 🌱 Aprendendo C!
 
   <div align="center">
   <a href="https://github.com/canoel22">
